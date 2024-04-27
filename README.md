@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashapradha" alt="yashapradha" /></a> </p>
 
+<img align="right" >![giphy](https://github.com/Yashapradha/Yashapradha/assets/153619922/4d7a0040-4b6d-4936-8f45-5268f89bb581)</img>
 
 - 🔭 I’m currently working on **project based on react**
 
@@ -16,6 +17,7 @@
 - 💬 Ask me about **C, C++, C#, Python, SQL, HTML, CSS**
 
 - 📫 How to reach me **yashapradhayashu@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
