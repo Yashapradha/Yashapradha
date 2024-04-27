@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yashapradha</h1>
 <h3 align="center">A passionate Web developer and an Cybersecurity Aspirant from India</h3>
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashapradha&label=Profile%20views&color=0e75b6&style=flat" alt="yashapradha" /> </p>-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashapradha&label=Profile%20views&color=0e75b6&style=flat" alt="yashapradha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashapradha" alt="yashapradha" /></a> </p>
 
-<img align="right" >![giphy](https://github.com/Yashapradha/Yashapradha/assets/153619922/4d7a0040-4b6d-4936-8f45-5268f89bb581)</img>
+<img align="right" height="300" src="https://github.com/Yashapradha/Yashapradha/assets/153619922/4d7a0040-4b6d-4936-8f45-5268f89bb581" >
 
 - 🔭 I’m currently working on **project based on react**
 
