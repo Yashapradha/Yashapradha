@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yashapradha m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashapradha m" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yashapradhayashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yashapradhayashu" height="30" width="40" /></a>
-<a href="https://instagram.com/yashapradha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashapradha" height="30" width="40" /></a>
+<a href="https://instagram.com/_yashapradha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashapradha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
